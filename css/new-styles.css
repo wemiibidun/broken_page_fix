@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Titillium+Web:wght@400;500;700&display=swap');
+
+.body, h1, h4{
+    font-family: "Titillium Web", "Open Sans", Arial, sans-serif;
+    font-weight: 600;
+}
+
+.bounce-icon{
+    margin-top: -70px;
+}
+
+.card-wrapper{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+.closing-date{
+    font-style: italic;
+}
+
+.contact-info{
+    text-align: center;
+    width: 65%;
+    padding: 20px;
+}
+
+.email-wrapper{
+    margin-bottom: -50px;
+}
+
+.image-wrapper{
+    width: 75%;
+}
+
+.table{
+    width: 100%;
+    font-family: 'DM Sans', sans-serif;
+}
