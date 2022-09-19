@@ -1,32 +1,23 @@
-# Broken Page
-
-Try to make `index.html` look as close to the screen shot below as you can. Put all your css changes in `new-styles.css`.
-
-Make sure page has proper HTML markup and follows good accessibility standards. Bootstrap 5 classes are available to use as well. 
-
-
-## Fixed page:
-
-Large screen
-
-
-Small screen
-
-
-
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/broken_page_fix)
 ![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/broken_page_fix)
 
 
 # Broken Page Fix
-This responsive web application had a couple of bugs that were fixed using Bootstrap 5
+This responsive web application had a couple of bugs that were fixed using Bootstrap 5. 
 
 
 ## Introduction
-The aim of this project is to create a program listing application page that enables users to be able to filter courses based on availabilty and delivery method.
+The aim of this project is to fix a couple of styling issues on this webpage. This was achieved using Bootstrap 5 and all changes were put in `new-styles.css`.
 
 
-## Screenshot
+## Fixed page Screenshot:
+The screenshots below showcases a snippet of what the before and after the fix of the web page looks like
+
+Large screen _(before and after)_
+![Homepage image](https://github.com/wemiibidun/program_listing_page/blob/main/Screen%20Shot.png)
+
+
+Small screen _(before and after)_
 ![Homepage image](https://github.com/wemiibidun/program_listing_page/blob/main/Screen%20Shot.png)
 
 
