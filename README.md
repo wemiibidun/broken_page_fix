@@ -14,10 +14,12 @@ The aim of this project is to fix a couple of styling issues on this webpage. Th
 The screenshots below showcases a snippet of what the before and after the fix of the web page looks like
 
 Large screen _(before and after)_
+
 ![Homepage image](https://github.com/wemiibidun/program_listing_page/blob/main/Screen%20Shot.png)
 
 
 Small screen _(before and after)_
+
 ![Homepage image](https://github.com/wemiibidun/program_listing_page/blob/main/Screen%20Shot.png)
 
 
