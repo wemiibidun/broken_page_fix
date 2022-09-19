@@ -20,7 +20,7 @@ The screenshots below showcases a snippet of what the before and after the fix o
 
 **Small screen _(before and after)_**
 
-![Homepage image](https://github.com/wemiibidun/program_listing_page/blob/main/Screen%20Shot.png)
+![Homepage image](https://github.com/wemiibidun/broken_page_fix/blob/main/Screen%20Shot%20(small).png)
 
 
 ## Status
